@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gelief123,I'm 30 years old and a not so skilled self taught trying to be programmer...
 - 👀 I’m interested in webdesign,python,coding,learning languages ect
 - 🌱 I’m currently learning python but intrested in much more
-- 💞️ I’m looking to collaborate on well anything anyone has time to explain, nevr to old to learn hey
+- 💞️ I’m looking to collaborate on well anything anyone has time to explain, never to old to learn and always up for a challenge
 - 📫 How to reach me geliefgifts@gmail.com
 
 <!---
